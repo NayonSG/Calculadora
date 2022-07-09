@@ -1,4 +1,4 @@
-# calculator
+# Calculadora
 
 Olá!
 Esse foi o meu primeiro projeto, onde pude utilizar e aprofundar um pouco dos meus conhecimentos em HTML.
